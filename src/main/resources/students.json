@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 1001,
+    "name" : "Andrew Huffman",
+    "active" : true
+  },
+  {
+    "id" : 1002,
+    "name" : "Helen John",
+    "active" : true
+  },
+  {
+    "id" : 1003,
+    "name" : "Kim Jenn",
+    "active" : false
+  }
+]
